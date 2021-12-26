@@ -10,6 +10,7 @@ answers là phần bot sẽ reply lại
 *Lưu ý: sử dụng ngôn từ phù hợp
 
 Cách dùng API:
+```js
 const key = "your_key"
 let res = await axios.get(encodeURI(`https://api.elainateam.xyz/chatbot?key=${key}&msg=${message.content}`));
     if (!res.data.msg){
@@ -17,8 +18,12 @@ let res = await axios.get(encodeURI(`https://api.elainateam.xyz/chatbot?key=${ke
     }else{
         return message.channel.send(res.data.msg)
     }
+```
 
 Credit: 
+
 Owner: Peter Tuan Anh, DiozVN
+
 Admin: Tohru, CookieGMVN
+
 Adder: The DT, PhatDev
