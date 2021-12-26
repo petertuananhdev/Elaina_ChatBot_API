@@ -27,7 +27,13 @@
 		"chào pé",
 		"lô nhóc con",
 		"lô mấy thằng nhóc",
-		"đéo chào con mọe gì hết"
+		"đéo chào con mọe gì hết",
+		"ê",
+		"ê hello",
+		"hello mày",
+		"hello bot",
+		"chào bot",
+		"lô"
             ],
             "answers": [
                 "Chào cậu nha :3",
@@ -49,7 +55,10 @@
 		"chào pé",
 		"lô nhóc con",
 		"lô mấy thằng nhóc",
-		"đéo chào con mọe gì hết"
+		"đéo chào con mọe gì hết",
+		"henlo",
+		"hê nhô",
+		"hê lô"
             ]
         },
         {
@@ -71,11 +80,15 @@
 		"gút bai",
 		"cút",
 		"bố mày sủi",
-		"byebye"
+		"bye bye",
+		"bye nhá",
+		"bye nha uwu",
             ],
             "answers": [
                 "Bái bai cậu nhá",
-                "Bai, lần khác nói tiếp nhá :3"
+                "Bai, lần khác nói tiếp nhá :3",
+		"Bye cậu nha",
+		"Tạm biệt nha"
             ]
         },
         {
@@ -279,19 +292,23 @@
             "answers": [
                 "HẢO :)))",
                 "Hảo hán",
-                "Còn phải nói:))))"
+                "Còn phải nói:))))",
+		"Hảo quá",
+		"Hảo xd"
             ]
         },
         {
             "intent": "other.bruh",
             "utterances": [
                 "bruh",
-                "breh"
+                "breh",
+		"bủh"
             ],
             "answers": [
                 "HẢO :)))",
-                "bruh",
-                "Breh"
+                "Bruh",
+                "Breh",
+		"Bủh"
             ]
         },
         {
