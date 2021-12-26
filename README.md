@@ -1,7 +1,7 @@
-Elaina ChatBot API
-Để có thể ủng hộ câu từ cho API bạn có thể theo các bước như sau:
+# Elaina ChatBot API
+## Để có thể ủng hộ câu từ cho API bạn có thể theo các bước như sau:
 
-Bước 1:
+### Bước 1:
 Nhấn vào icon cây bút ở bên phải và thêm câu từ theo quy tắc sau:
 intent: để chỉ tên của mục (không đặt trùng tên)
 utterances là các câu người dùng hỏi bot
@@ -9,7 +9,7 @@ answers là phần bot sẽ reply lại
 
 *Lưu ý: sử dụng ngôn từ phù hợp
 
-Cách dùng API:
+###  Cách dùng API JS:
 ```js
 const key = "your_key"
 let res = await axios.get(encodeURI(`https://api.elainateam.xyz/chatbot?key=${key}&msg=${message.content}`));
@@ -19,6 +19,9 @@ let res = await axios.get(encodeURI(`https://api.elainateam.xyz/chatbot?key=${ke
         return message.channel.send(res.data.msg)
     }
 ```
+
+###  Cách dùng API Python:
+[Nhấn vào đây để xem](https://github.com/duongtuan303030/elainaapi)
 
 Credit: 
 
