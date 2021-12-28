@@ -18,7 +18,6 @@
                 "Halo",
                 "Hế lu",
 		"Lô ku",
-		"chào con cak",
 		"chào anh yêu",
 		"chào người bạn thân yêu của tôi",
 		"chào bạn đó",
@@ -86,6 +85,7 @@
                 "Bái bai cậu nhá",
                 "Bai, lần khác nói tiếp nhá :3",
 		"Bye cậu nha",
+                "Chúc một ngày tốt lành :3",
 		"Tạm biệt nha"
             ]
         },
@@ -124,6 +124,7 @@
                 "bảo tớ ngu thì đi chỗ khác chơi nhá",
                 "gòi dỗi luôn",
                 "ơ kía sao nói thế",
+                "não ông được như tôi rồi nói",
                 "nhỗi lun ó"
             ]
         },
@@ -207,6 +208,7 @@
             "answers": [
                 "mình chỉ là bạn thôi nhé :)",
                 "yêu lắm yêu lắm",
+                "ôi bạn ơi mình không muốn 1+1=3 đâu nên chúng ta làm bạn thôi nhé :>",
                 "nhắm lo được cho tớ cả đời hơm"
             ]
         },
@@ -267,7 +269,8 @@
                 "simsimi hay sao"
             ],
             "answers": [
-                "tớ tên là hmm, hong nói âu"
+                "tớ tên là hmm, hong nói âu",
+                "tớ tên là `No Name`"
             ]
         },
         {
