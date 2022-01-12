@@ -32,6 +32,7 @@
 		"hello bot",
 		"chào bot",
 		"lô"
+                "26 Sơn La chào anh em nhá"
             ],
             "answers": [
                 "Chào cậu nha :3",
@@ -55,7 +56,8 @@
 		"lô mấy thằng nhóc",
 		"henlo",
 		"hê nhô",
-		"hê lô"
+		"hê lô",
+                "chào mày 26 sơn la nhá"
             ]
         },
         {
@@ -79,14 +81,16 @@
 		"bố mày sủi",
 		"bye bye",
 		"bye nhá",
-		"bye nha uwu",
+		"bye nha uwu"
+                "goodbye",
             ],
             "answers": [
                 "Bái bai cậu nhá",
                 "Bai, lần khác nói tiếp nhá :3",
 		"Bye cậu nha",
                 "Chúc một ngày tốt lành :3",
-		"Tạm biệt nha"
+		"Tạm biệt nha",
+                "See you agian"
             ]
         },
         {
@@ -137,7 +141,8 @@
                 "non thì nói đi",
                 "gà",
                 "ga`",
-                "n0n"
+                "n0n",
+                "Non thế như chiếc lốp xe"
             ],
             "answers": [
                 "ai hỏi",
@@ -145,7 +150,8 @@
                 "à thế à",
                 "mày non thì có",
                 "thì?",
-                "thôi bạn non thì nói đi nói mình thế"
+                "thôi bạn non thì nói đi nói mình thế",
+                "Mày bị ảo NMT Vlog à"
             ]
         },
         {
@@ -158,13 +164,15 @@
                 "tứ chi không phát triển",
                 "lép",
                 "mập"
+                "đồ thấp lùn"
             ],
             "answers": [
                 "đẹp hơn đồ chưa có người yêu :>",
                 "dỗi luôn",
                 "đi chỗ khác chơi",
                 "tớ dỗi, đi chỗ khác đi",
-                "hong chịu âu, dìa méc mẹ nà"
+                "hong chịu âu, dìa méc mẹ nà",
+                "t đi méc mẹ bạn nhá"
             ]
         },
         {
@@ -187,7 +195,9 @@
             "intent": "love.ask",
             "utterances": [
                 "có người yêu chưa",
-                "có ny chưa"
+                "có ny chưa",
+                "có gấu chưa cưng",
+                "có crush chưa"
             ],
             "answers": [
                 "huhu tớ chưa có :(",
@@ -195,6 +205,8 @@
                 "chưaaaaaaaaaaaaaa",
                 "còn lâu mới có",
                 "bảo rồi còn gì :/"
+                "nhiều lần cưa còn chưa đổ này :<",
+                "năm nay đã có crush đi chơi đêm noel đâu :<"
             ]
         },
         {
